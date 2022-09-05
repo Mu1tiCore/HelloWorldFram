@@ -1,3 +1,3 @@
 # Простейший HelloWorld в отдельном графическом окне.
 
-/HelloWorldFrame/src/HelloWorldFrame.java 
+запускать это - /HelloWorldFrame/src/HelloWorldFrame.java 
